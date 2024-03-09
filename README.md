@@ -20,8 +20,8 @@
 - 内存: 十铨火神 2x8GB DDR4 3200MHz
 - 硬盘: 1.西数 SN750 500GB MacOS
 - 硬盘: 2.美光 CT500 MX 500GB Windows
-- 核显：英特尔超核心显卡630
-- 独显: 戴尔 OEM Radeon RX580X 8GB 2304 SP
+- 核显: 英特尔超核心显卡630
+- 独显: [戴尔 OEM Radeon RX580X 8GB 2304 SP](https://www.bilibili.com/video/BV1r24y1P7iC/) 
 - 声卡: 瑞昱 ALC1220A
 - 网卡: 英特尔 以太网连接 I219-V
 - 无线: BCM94360CS2 搭配 m.2 转接板 （白果拆机卡）

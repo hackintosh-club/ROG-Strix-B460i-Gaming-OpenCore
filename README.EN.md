@@ -21,7 +21,7 @@
 - SSD: WD_BLACK SN750 500GB MacOS
 - SSD: Crucial CT500 MX 500GB Windows
 - iGPU: Intel UHD Graphics 630
-- GPU: DELL OEM Radeon RX580X 8GB 2304 SP
+- GPU: [DELL OEM Radeon RX580X 8GB 2304 SP](https://www.bilibili.com/video/BV1r24y1P7iC/) 
 - Audio: Realtek ALC1220A
 - Ethernet: Intel Ethernet Connection I219-V
 - Wireless: BCM94360CS2 with m.2 Adaper
