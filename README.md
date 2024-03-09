@@ -14,7 +14,7 @@
 
 ### 硬件
 
-- 主板: MSI-MAG-B660M-MORTAR-WIFI-DDR4
+- 主板: ROG-STRIX-B460I-GAMING
 - Bios版本: 1601（2022/04/06）
 - 处理器: 英特尔10代 i9-10900 ES (QTB1)
 - 内存: 十铨火神 2x8GB DDR4 3200MHz

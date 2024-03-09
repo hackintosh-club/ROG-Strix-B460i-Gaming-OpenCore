@@ -14,7 +14,7 @@
 
 ### Hardware
 
-- Motherboard: MSI-MAG-B660M-MORTAR-WIFI-DDR4
+- Motherboard: ROG-STRIX-B460I-GAMING
 - Bios Version: 1601（2022/04/06）
 - CPU: Intel 10th i9-10900 ES (QTB1)
 - RAM: TEAMGROUP 2x8GB DDR4 3200MHz
