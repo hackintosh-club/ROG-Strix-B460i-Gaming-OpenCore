@@ -4,10 +4,11 @@
 
 ### [English](README.EN.md)
 
-[OpenCore 0.9.8](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
+- macOS Sequoia 15.x
 - macOS Sonoma 14.x
 - macOS Ventura 13.x
 - macOS Monterey 12.x
